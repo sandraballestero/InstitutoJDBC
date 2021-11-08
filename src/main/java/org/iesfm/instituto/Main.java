@@ -1,5 +1,8 @@
-package org.iesfm.instituto.jdbc;
+package org.iesfm.instituto;
 
+import org.iesfm.instituto.InstitutoConfiguration;
+import org.iesfm.instituto.Title;
+import org.iesfm.instituto.dao.TitleDAO;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
